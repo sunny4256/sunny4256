@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Sunny+Gandham;Senior+Full+Stack+Engineer;Cloud+Architect" alt="Typing SVG" />
+  Hi 👋 I'm Sunny Gandham
 </h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Engineer;Cloud+Architect;DevOps+Specialist;Software+Development+Expert" alt="Typing SVG" />
+</h3>
 
 <div align="center">
   <a href="mailto:sunnygoud4256@gmail.com">
