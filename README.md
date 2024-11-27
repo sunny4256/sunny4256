@@ -21,7 +21,7 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-  Senior Full-Stack Engineer with 4.5+ years of expertise in building scalable web applications and cloud solutions. 
+  Senior Full-Stack Engineer with 3+ years of expertise in building scalable web applications and cloud solutions. 
   Passionate about creating efficient, user-centric applications and implementing cloud-native architectures.
 </p>
 
