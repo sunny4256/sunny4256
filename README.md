@@ -33,9 +33,8 @@
 - 📊 Experience with big data processing and real-time analytics
 
 ### 🎓 Education
-- 📚 MS Information Technology | University of Central Missouri _(Jan 2023 – May 2024)_
-- 🎯 MS Information Technology | Clark University _(Aug 2022- Dec 2022)_
-- 🎓 BE Information Technology | Neil Gogte Institute of Technology _(June 2018- Aug 2022)_
+- 📚 MS Information Technology | University of Central Missouri _
+- 🎓 BE Information Technology | Neil Gogte Institute of Technology _
 
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
